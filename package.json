@@ -1,0 +1,12 @@
+{
+    "name": "voicetext.js",
+    "version": "0.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/mouse484/voicetext.js.git",
+    "author": "mouse_484",
+    "license": "MIT",
+    "devDependencies": {
+        "eslint": "^5.16.0",
+        "eslint-config-esc": "Esc-Developer/eslint-config-esc#master"
+    }
+}
